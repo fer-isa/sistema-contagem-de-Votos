@@ -1,0 +1,16 @@
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\bin\Debug\net8.0-windows\aula_18_03_2025.exe
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\bin\Debug\net8.0-windows\aula_18_03_2025.deps.json
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\bin\Debug\net8.0-windows\aula_18_03_2025.runtimeconfig.json
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\bin\Debug\net8.0-windows\aula_18_03_2025.dll
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\bin\Debug\net8.0-windows\aula_18_03_2025.pdb
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\obj\Debug\net8.0-windows\aula_18_03_2025.Form1.resources
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\obj\Debug\net8.0-windows\aula_18_03_2025.csproj.GenerateResource.cache
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\obj\Debug\net8.0-windows\aula_18_03_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\obj\Debug\net8.0-windows\aula_18_03_2025.AssemblyInfoInputs.cache
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\obj\Debug\net8.0-windows\aula_18_03_2025.AssemblyInfo.cs
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\obj\Debug\net8.0-windows\aula_18_03_2025.csproj.CoreCompileInputs.cache
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\obj\Debug\net8.0-windows\aula_18_03_2025.dll
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\obj\Debug\net8.0-windows\refint\aula_18_03_2025.dll
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\obj\Debug\net8.0-windows\aula_18_03_2025.pdb
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\obj\Debug\net8.0-windows\aula_18_03_2025.genruntimeconfig.cache
+C:\Users\fernanda.iosilva\source\repos\aula_18_03_2025\aula_18_03_2025\obj\Debug\net8.0-windows\ref\aula_18_03_2025.dll
